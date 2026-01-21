@@ -1,0 +1,7 @@
+{
+  "name": "Aura Voice AI",
+  "description": "A real-time, voice-activated AI assistant powered by the Gemini Live API. Features bidirectional audio streaming, live frequency visualization, and persona customization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
